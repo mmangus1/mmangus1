@@ -16,8 +16,6 @@ A company needs clean, readable, and bug-free code for several compelling reason
 
 8. **Compliance and Security**: Clean code often adheres to best practices and standards, which can help ensure compliance with industry regulations and improve the security of the software.
 
-Would you like to dive deeper into any of these points?
-
 <!--
 **mmangus1/mmangus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
