@@ -1,3 +1,6 @@
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+― Martin Fowler
+
 A company needs clean, readable, and bug-free code for several compelling reasons:
 
 1. **Maintainability**: Clean and readable code is easier to maintain. When code is well-organized and clear, developers can quickly understand and modify it, reducing the time and effort required for maintenance.
