@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Matt!
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmangus1&show_icons=true&theme=dracula)](https://github.com/mmangus1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmangus1&layout=compact&theme=dracula)](https://github.com/mmangus1)
 
