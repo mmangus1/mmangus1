@@ -25,7 +25,7 @@ My background includes an Associate's degree in Computer Network Administration,
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewpmangus/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/MtthwMngs)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MtthwMngs)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](https://mmangus1.github.io/)
 [![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtthwmngs@gmail.com)
 
