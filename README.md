@@ -13,8 +13,8 @@ My background includes an Associate's degree in Computer Network Administration,
 
 ### What I'm Currently Working On:
 
-- [Link to a personal project or repository] - Briefly describe what it is.
-- Exploring [new technology or framework you're learning].
+- [Price Tracker](https://github.com/mmangus1/PriceTracker) - An Python app for tracking prices from major online retailers.
+- Exploring [Ethical Hacking](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US).
 
 ### What You Can Find in My Repositories:
 
@@ -24,10 +24,10 @@ My background includes an Associate's degree in Computer Network Administration,
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL])
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter Profile URL (Optional)])
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)]([Your Portfolio URL (Optional)])
-[![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Your Email Address])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewpmangus/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/MtthwMngs)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](https://mmangus1.github.io/)
+[![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtthwmngs@gmail.com)
 
 ### Tech Stack:
 
@@ -40,6 +40,6 @@ My background includes an Associate's degree in Computer Network Administration,
 - Web development and design
 - Automation and scripting
 - Learning new technologies
-- [Add any other relevant interests]
+- Custom Computer Hardware Applications
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
