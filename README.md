@@ -13,6 +13,7 @@ My background includes an Associate's degree in Computer Network Administration,
 
 - [Price Tracker](https://github.com/mmangus1/PriceTracker) - An Python app for tracking prices from major online retailers.
 - Exploring [Ethical Hacking](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US).
+- [Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) Professional Certificate
 
 ### What You Can Find in My Repositories:
 
