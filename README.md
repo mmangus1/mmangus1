@@ -41,5 +41,7 @@ My background includes an Associate's degree in Computer Network Administration,
 - Automation and scripting
 - Learning new technologies
 - Custom Computer Hardware Applications
+- Personal and Professional Development
+- Leadership and Management
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
