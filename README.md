@@ -47,7 +47,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 Prompted AI "a summary on why to hire a person with an associates degree in computer network administration, classes on criminal justice and law, multiple IT certifications including cisco ethical hacker, influence from former military personel including a army senior drill sergeant, who is also currently a pastor and funeral home business owner, influence from a former state police post commander who was his instructor and currently promoted to FEMA, and who has worked for more than two years in a aerospace and industry factory that does rubber injection molding for contracts with lockheed martin and the department of defense, who worked more than two years for mcdonalds as a preparation cook, as management." and here is the result (wrote for transparency):
 
 (Finishing Cisco Ethical Hacker very soon (on module 7 of 10, 3-7 in the last two days))...
-(Also starting a Bachelors of Science in Computer Science in the next month, to add upon completion, may want to add other details on myself later to the prompt.)
+(Also starting a Bachelors of Science in Computer Science in the next month, to add upon completion, may want to add other details on myself later to the prompt, such as volunteer security guard and actually working the funeral home and a short stint working a Adult Foster Care home.)
 
 Here's a summary of why to hire this individual, highlighting the unique blend of skills and experiences they bring:
 
