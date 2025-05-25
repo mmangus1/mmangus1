@@ -43,6 +43,7 @@ My background includes an Associate's degree in Computer Network Administration,
 - Leadership and Management
 
 ### Summary regarding my background:
+### Some errors may exist, contact me and I will fix them for ensuring accuracy and integrity
 
 This candidate presents an exceptionally compelling profile for a management position, offering a rare and powerful combination of profound personal resilience, extensive technical mastery, and diverse, hands-on leadership experience. Their journey, marked by overcoming significant physical and emotional trauma, has cultivated an individual who is remarkably adaptable, driven, and resourceful. This lived experience fosters a unique perspective on problem-solving and perseverance under pressure.
 
